@@ -9,10 +9,10 @@
    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝      ╚═════╝   ╚═╝   ╚═╝  ╚═╝╚══════╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full-Stack+Developer+%7C+Mobile+Engineer;TypeScript+Specialist+%7C+Cloud+Architect;Building+Scalable+%26+Modern+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Desarrollador+Full-Stack+%7C+Ingeniero+M%C3%B3vil;Especialista+en+TypeScript;Construyendo+Soluciones+Escalables" alt="Typing SVG" />
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryandreshurtado18@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YARE-CTRL)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YARE-CTRL&color=blueviolet&style=for-the-badge)
@@ -25,46 +25,46 @@
 
 <div align="center">
   
-## 🚀 About Me
+## 🚀 Sobre Mí
 
 </div>
 
 ```typescript
 const YARE_CTRL = {
-    role: "Full-Stack Developer | Mobile Engineer | Tech Leader",
-    location: "Colombia 🇨🇴",
-    education: "Tecnólogo ADSO - SENA",
-    achievements: ["SENASOFT 2025 Competitor 🏆", "Team Leader & Project Manager"],
+    rol: "Desarrollador Full-Stack | Ingeniero Móvil | Líder Técnico",
+    ubicacion: "Colombia 🇨🇴",
+    educacion: "Tecnólogo ADSO - SENA",
+    logros: ["Competidor SENASOFT 2025 🏆", "Líder de Equipo & Gestor de Proyectos"],
     
-    expertise: {
+    experticia: {
         frontend: ["TypeScript", "React", "Next.js", "Vite"],
         backend: ["Node.js", "AdonisJS", "Express", "Socket.io"],
-        mobile: ["Android Native", "Java", "Kotlin"],
+        movil: ["Android Nativo", "Java", "Kotlin"],
         cloud: ["AWS", "Firebase", "Vercel", "Render"],
-        database: ["PostgreSQL", "MongoDB", "MySQL", "Redis", "Supabase"],
+        baseDatos: ["PostgreSQL", "MongoDB", "MySQL", "Redis", "Supabase"],
         devOps: ["Docker", "Git/GitHub", "CI/CD", "Shell/PowerShell"]
     },
     
-    methodologies: ["Agile", "Scrum", "Clean Code", "SOLID", "TDD"],
+    metodologias: ["Agile", "Scrum", "Clean Code", "SOLID", "TDD"],
     
-    softSkills: [
-        "👥 Team Leadership & Project Management",
-        "🗣️ Effective Communication & Collaboration",
-        "🎯 Problem-Solving & Critical Thinking",
-        "📊 Strategic Planning & Organization",
-        "🤝 Mentoring & Knowledge Sharing"
+    habilidadesBlandas: [
+        "👥 Liderazgo de Equipos y Gestión de Proyectos",
+        "🗣️ Comunicación Efectiva y Colaboración",
+        "🎯 Resolución de Problemas y Pensamiento Crítico",
+        "📊 Planificación Estratégica y Organización",
+        "🤝 Mentoría y Compartir Conocimiento"
     ],
     
-    currentFocus: [
-        "🔥 Mastering Cloud Architecture",
-        "📱 Advanced Mobile Development",
-        "🎯 Microservices & Scalability",
-        "🤖 AI/ML Integration"
+    enfoqueActual: [
+        "🔥 Dominando Arquitectura Cloud",
+        "📱 Desarrollo Móvil Avanzado",
+        "🎯 Microservicios y Escalabilidad",
+        "🤖 Integración de IA/ML"
     ],
     
-    philosophy: "Clean code is not just about making it work, it's about making it right.",
+    filosofia: "El código limpio no se trata solo de hacer que funcione, sino de hacerlo bien.",
     
-    available_for: ["Freelance Projects", "Full-time Opportunities", "Open Source Collaboration"]
+    disponiblePara: ["Proyectos Freelance", "Oportunidades Tiempo Completo", "Colaboración Open Source"]
 };
 ```
 
@@ -78,12 +78,12 @@ const YARE_CTRL = {
 
 <div align="center">
 
-## 🛠️ Tech Arsenal
+## 🛠️ Arsenal Tecnológico
 
 </div>
 
 <details open>
-<summary><b>🎨 Frontend Development</b></summary>
+<summary><b>🎨 Desarrollo Frontend</b></summary>
 <br>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -98,7 +98,7 @@ const YARE_CTRL = {
 </details>
 
 <details open>
-<summary><b>⚙️ Backend Development</b></summary>
+<summary><b>⚙️ Desarrollo Backend</b></summary>
 <br>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -111,7 +111,7 @@ const YARE_CTRL = {
 </details>
 
 <details open>
-<summary><b>📱 Mobile Development</b></summary>
+<summary><b>📱 Desarrollo Móvil</b></summary>
 <br>
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -122,7 +122,7 @@ const YARE_CTRL = {
 </details>
 
 <details open>
-<summary><b>🗄️ Database & Storage</b></summary>
+<summary><b>🗄️ Bases de Datos y Almacenamiento</b></summary>
 <br>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -136,7 +136,7 @@ const YARE_CTRL = {
 </details>
 
 <details open>
-<summary><b>☁️ Cloud & Deployment</b></summary>
+<summary><b>☁️ Cloud y Despliegue</b></summary>
 <br>
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -148,7 +148,7 @@ const YARE_CTRL = {
 </details>
 
 <details open>
-<summary><b>🧪 Testing & Quality</b></summary>
+<summary><b>🧪 Testing y Calidad</b></summary>
 <br>
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
@@ -159,7 +159,7 @@ const YARE_CTRL = {
 </details>
 
 <details open>
-<summary><b>🔧 Tools & Workflow</b></summary>
+<summary><b>🔧 Herramientas y Flujo de Trabajo</b></summary>
 <br>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -176,7 +176,7 @@ const YARE_CTRL = {
 
 <div align="center">
 
-## 📊 GitHub Analytics
+## 📊 Estadísticas de GitHub
 
 </div>
 
@@ -186,7 +186,7 @@ const YARE_CTRL = {
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YARE-CTRL&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=400" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YARE-CTRL&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=YARE-CTRL&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
@@ -194,7 +194,7 @@ const YARE_CTRL = {
 
 <div align="center">
 
-## 🏆 GitHub Achievements
+## 🏆 Logros de GitHub
 
 </div>
 
@@ -208,72 +208,77 @@ const YARE_CTRL = {
 
 <div align="center">
 
-## 🎯 Current Focus & Learning
+## 🎯 Enfoque y Aprendizaje Actual
 
 </div>
 
-```mermaid
-graph LR
-    A[Current Focus] --> B[Cloud Architecture]
-    A --> C[Microservices]
-    A --> D[AI Integration]
-    A --> E[Mobile Excellence]
-    
-    B --> B1[AWS Solutions Architect]
-    B --> B2[Serverless Computing]
-    
-    C --> C1[Docker & K8s]
-    C --> C2[Event-Driven Architecture]
-    
-    D --> D1[LangChain & AI APIs]
-    D --> D2[Machine Learning Basics]
-    
-    E --> E1[Jetpack Compose]
-    E --> E2[Flutter Exploration]
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### ☁️ Arquitectura Cloud
+- AWS Solutions Architect
+- Computación Serverless
+- Infraestructura como Código
+
+#### 🔧 Microservicios
+- Docker & Kubernetes
+- Arquitectura Event-Driven
+- API Gateway & Service Mesh
+
+</td>
+<td width="50%" valign="top">
+
+#### 🤖 Integración de IA
+- LangChain & APIs de IA
+- Fundamentos de Machine Learning
+- Automatización Inteligente
+
+#### 📱 Excelencia Móvil
+- Jetpack Compose
+- Exploración de Flutter
+- Mobile DevOps
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-## 💼 Professional Timeline
+## 💼 Trayectoria Profesional
 
 </div>
 
-```yaml
-2024 - Present:
-  role: "Full-Stack Developer"
-  focus: 
-    - Developing scalable web applications with TypeScript
-    - Building robust APIs and microservices
-    - Implementing cloud solutions on AWS
-    - Mobile development with Android Native
-  
-2023 - 2024:
-  role: "ADSO - SENA | Team Leader"
-  highlights:
-    - 🏆 SENASOFT 2025 Competitor - National Programming Competition
-    - 👥 Led multiple academic and professional projects as Team Leader
-    - 🎯 Applied agile methodologies and soft skills in team coordination
-    - 💼 Graduated as Technology Analyst in Software Development
-    - 🚀 Specialized in Full-Stack development with TypeScript
-    - 📱 Built 10+ production-ready projects (web & mobile)
-    - 🤝 Mentored team members and facilitated knowledge sharing sessions
-  
-2022 - 2023:
-  focus: "Foundation & Learning"
-  skills:
-    - Core programming fundamentals
-    - Web development basics
-    - Database design principles
-    - Version control mastery
-```
+### 📅 Línea de Tiempo
+
+**🚀 2024 - Presente: Desarrollador Full-Stack**
+- Desarrollo de aplicaciones web escalables con TypeScript
+- Construcción de APIs robustas y microservicios
+- Implementación de soluciones cloud en AWS
+- Desarrollo móvil con Android Nativo
+
+**🎓 2023 - 2024: ADSO - SENA | Líder de Equipo**
+- 🏆 **Competidor SENASOFT 2025** - Competencia Nacional de Programación
+- 👥 **Lideré múltiples proyectos** académicos y profesionales como Team Leader
+- 🎯 Apliqué **metodologías ágiles** y habilidades blandas en coordinación de equipos
+- 💼 **Graduado** como Tecnólogo en Análisis y Desarrollo de Software
+- 🚀 Especializado en desarrollo **Full-Stack con TypeScript**
+- 📱 Construí **+10 proyectos** listos para producción (web y móvil)
+- 🤝 **Mentoriceé** miembros del equipo y facilité sesiones de compartir conocimiento
+
+**📚 2022 - 2023: Fundamentos y Aprendizaje**
+- Fundamentos de programación
+- Bases de desarrollo web
+- Principios de diseño de bases de datos
+- Dominio de control de versiones
 
 ---
 
 <div align="center">
 
-## � Notable Achievements
+## 🏅 Logros Destacados
 
 </div>
 
@@ -282,22 +287,22 @@ graph LR
 <td width="50%">
 
 ### 🏆 SENASOFT 2025
-**National Programming Competition**
-- Represented SENA in one of Colombia's most prestigious tech competitions
-- Developed innovative solutions under pressure and time constraints
-- Demonstrated advanced problem-solving and technical skills
-- Collaborated effectively with team members in high-stakes environment
+**Competencia Nacional de Programación**
+- Representé al SENA en una de las competencias tech más prestigiosas de Colombia
+- Desarrollé soluciones innovadoras bajo presión y límites de tiempo
+- Demostré habilidades avanzadas de resolución de problemas y técnicas
+- Colaboré efectivamente con miembros del equipo en ambiente de alta exigencia
 
 </td>
 <td width="50%">
 
-### 👥 Technical Leadership
-**Project Management & Team Coordination**
-- Led 5+ cross-functional development teams
-- Coordinated agile sprints and deliverables
-- Facilitated technical decisions and architecture design
-- Mentored junior developers and conducted code reviews
-- Achieved 100% project delivery rate on time
+### 👥 Liderazgo Técnico
+**Gestión de Proyectos y Coordinación de Equipos**
+- Lideré +5 equipos de desarrollo multifuncionales
+- Coordiné sprints ágiles y entregables
+- Facilité decisiones técnicas y diseño de arquitectura
+- Mentoriceé desarrolladores junior y realicé code reviews
+- Logré 100% de tasa de entrega de proyectos a tiempo
 
 </td>
 </tr>
@@ -305,14 +310,14 @@ graph LR
 
 <div align="center">
 
-### 💼 Core Soft Skills
+### 💼 Habilidades Blandas Principales
 
-![Leadership](https://img.shields.io/badge/Leadership-Expert-success?style=for-the-badge)
-![Communication](https://img.shields.io/badge/Communication-Advanced-blue?style=for-the-badge)
-![Team_Work](https://img.shields.io/badge/Team_Work-Expert-success?style=for-the-badge)
-![Problem_Solving](https://img.shields.io/badge/Problem_Solving-Advanced-blue?style=for-the-badge)
-![Time_Management](https://img.shields.io/badge/Time_Management-Expert-success?style=for-the-badge)
-![Mentoring](https://img.shields.io/badge/Mentoring-Advanced-blue?style=for-the-badge)
+![Liderazgo](https://img.shields.io/badge/Liderazgo-Experto-success?style=for-the-badge)
+![Comunicación](https://img.shields.io/badge/Comunicaci%C3%B3n-Avanzado-blue?style=for-the-badge)
+![Trabajo_en_Equipo](https://img.shields.io/badge/Trabajo_en_Equipo-Experto-success?style=for-the-badge)
+![Resolución_de_Problemas](https://img.shields.io/badge/Resoluci%C3%B3n_de_Problemas-Avanzado-blue?style=for-the-badge)
+![Gestión_del_Tiempo](https://img.shields.io/badge/Gesti%C3%B3n_del_Tiempo-Experto-success?style=for-the-badge)
+![Mentoría](https://img.shields.io/badge/Mentor%C3%ADa-Avanzado-blue?style=for-the-badge)
 
 </div>
 
@@ -320,18 +325,11 @@ graph LR
 
 <div align="center">
 
-## �🌟 Featured Projects & Contributions
+## 🌟 Proyectos Destacados y Contribuciones
 
 </div>
 
-<div align="center">
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=YARE-CTRL&repo=repo-name&theme=tokyonight&hide_border=true)](https://github.com/YARE-CTRL)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=YARE-CTRL&repo=repo-name&theme=tokyonight&hide_border=true)](https://github.com/YARE-CTRL)
-
-</div>
-
-### 🔝 Top Contributed Repositories
+### 🔝 Repositorios con Más Contribuciones
 
 ![](https://github-contributor-stats.vercel.app/api?username=YARE-CTRL&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
 
@@ -339,7 +337,7 @@ graph LR
 
 <div align="center">
 
-## 📈 Contribution Graph
+## 📈 Gráfico de Contribuciones
 
 </div>
 
@@ -349,18 +347,7 @@ graph LR
 
 <div align="center">
 
-## 🎨 Code Time Stats
-
-</div>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-<div align="center">
-
-## 💭 Developer Quote
+## 💭 Frase del Día
 
 </div>
 
@@ -374,7 +361,7 @@ graph LR
 
 <div align="center">
 
-## 🤝 Let's Connect & Collaborate
+## 🤝 Conectemos y Colaboremos
 
 </div>
 
@@ -383,29 +370,28 @@ graph LR
 ```typescript
 // ¿Tienes un proyecto interesante? ¡Hablemos!
 
-const contactInfo = {
+const infoContacto = {
     email: "bryandreshurtado18@gmail.com",
-    availability: "Open for opportunities",
-    interests: [
-        "Full-Stack Development",
-        "Mobile Engineering", 
-        "Cloud Architecture",
-        "Open Source Contribution"
+    disponibilidad: "Abierto a oportunidades",
+    intereses: [
+        "Desarrollo Full-Stack",
+        "Ingeniería Móvil", 
+        "Arquitectura Cloud",
+        "Contribución Open Source"
     ],
-    motto: "Code with passion, ship with quality ✨"
+    lema: "Programar con pasión, entregar con calidad ✨"
 };
 
-// Feel free to reach out! 🚀
+// ¡No dudes en contactarme! 🚀
 ```
 
 <br>
 
-**📫 How to reach me:**
+**📫 Cómo contactarme:**
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryandreshurtado18@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YARE-CTRL)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 </div>
 
@@ -413,9 +399,9 @@ const contactInfo = {
 
 <div align="center">
 
-### ⭐ From [YARE-CTRL](https://github.com/YARE-CTRL) with 💙
+### ⭐ De [YARE-CTRL](https://github.com/YARE-CTRL) con 💙
 
-*Thanks for visiting! If you like my work, consider giving a ⭐ to my repositories!*
+*¡Gracias por visitar! Si te gusta mi trabajo, considera darle una ⭐ a mis repositorios!*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
