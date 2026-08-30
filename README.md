@@ -21,7 +21,7 @@
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=300&lines=Sobre+Mí" alt="Sobre Mí" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Sobre+Mí" alt="Sobre Mí" />
 </div>
 
 **Técnico en Programación de Software** y **Tecnólogo en Análisis y Desarrollo de Software** (en formación) con experiencia práctica en cruce, validación y seguimiento de información dentro de procesos operativos. 
@@ -30,7 +30,7 @@ Me destaco en la ejecución de consultas SQL complejas para verificar la integri
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Stack+Tecnológico+y+Herramientas" alt="Stack Tecnológico" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Stack+Tecnológico+y+Herramientas" alt="Stack Tecnológico" />
 
 <br/>
 
@@ -67,7 +67,7 @@ Me destaco en la ejecución de consultas SQL complejas para verificar la integri
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&lines=Experiencia+Profesional" alt="Experiencia" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Experiencia+Profesional" alt="Experiencia" />
 </div>
 
 ### Suramericana S.A.
@@ -92,7 +92,7 @@ Me destaco en la ejecución de consultas SQL complejas para verificar la integri
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=350&lines=Formación+Académica" alt="Formación" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Formación+Académica" alt="Formación" />
 </div>
 
 * **Tecnólogo en Análisis y Desarrollo de Software (ADSO)**
@@ -103,7 +103,7 @@ Me destaco en la ejecución de consultas SQL complejas para verificar la integri
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=350&lines=Logros+Destacados" alt="Logros" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Logros+Destacados" alt="Logros" />
 </div>
 
 > **Competidor Nacional SENASOFT 2025 (Pereira)**
@@ -115,16 +115,16 @@ Me destaco en la ejecución de consultas SQL complejas para verificar la integri
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&lines=Estadísticas+de+GitHub" alt="Estadísticas" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Estadísticas+de+GitHub" alt="Estadísticas" />
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YARE-CTRL&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YARE-CTRL&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Langs" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YARE-CTRL&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YARE-CTRL&layout=compact&langs_count=6&theme=radical&hide_border=true" alt="Langs" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YARE-CTRL&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=YARE-CTRL&theme=radical&no-frame=true&row=1&column=6&margin-w=15" alt="Trophies" />
 
 </div>
 
