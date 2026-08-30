@@ -119,12 +119,12 @@ Me destaco en la ejecución de consultas SQL complejas para verificar la integri
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YARE-CTRL&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YARE-CTRL&layout=compact&langs_count=6&theme=radical&hide_border=true" alt="Langs" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YARE-CTRL&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YARE-CTRL&layout=compact&langs_count=6&theme=radical&hide_border=true" alt="Langs" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YARE-CTRL&theme=radical&no-frame=true&row=1&column=6&margin-w=15" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=YARE-CTRL&theme=dracula&no-frame=true&row=1&column=6&margin-w=15" alt="Trophies" />
 
 </div>
 
