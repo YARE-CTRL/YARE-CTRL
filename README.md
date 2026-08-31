@@ -6,7 +6,7 @@ No me limito a escribir código; construyo soluciones estructuradas, eficientes 
 
 ### Enlaces Críticos
 
-⚡ [**Explora mi Portafolio Web**](https://portafolio-omega-ruddy.vercel.app) ↗
+⚡ [**Explora mi Portafolio Web**](https://mi-portafolio-farv2zrth-yare-cntrls-projects.vercel.app) ↗
 
 * [Conecta en LinkedIn](https://www.linkedin.com/in/bryan-hurtado-b13891364/) ↗
 * [Contáctame por Correo](mailto:bryan_hurtado@soy.sena.edu.co) ↗
