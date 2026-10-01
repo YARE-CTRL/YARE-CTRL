@@ -6,7 +6,7 @@ No me limito a escribir código; construyo soluciones estructuradas, eficientes 
 
 ### Enlaces Críticos
 
-⚡ [**Explora mi Portafolio Web**]([bhurtado.up.railway.app](https://bhurtado.up.railway.app/)) ↗
+⚡ [**Bryan Hurtado — Desarrollador Frontend & Datos**](https://bhurtado.up.railway.app/) ↗
 
 * [Conecta en LinkedIn](https://www.linkedin.com/in/bryan-hurtado-b13891364/) ↗
 * [Contáctame por Correo](mailto:bryan_hurtado@soy.sena.edu.co) ↗
